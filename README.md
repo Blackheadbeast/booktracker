@@ -29,5 +29,8 @@ Tracking Reading Progress: While reading a book, access its details page and ent
 
 Searching for Books: Use the search bar to look for specific books by title, author, or genre. Click on the search results to view book details or add them to your library.
 
+<img width="485" alt="image" src="https://github.com/Blackheadbeast/booktracker/assets/96144118/f0a4a258-af44-40a2-842a-bb9afd345fbc">
 
-<img width="356" alt="Screenshot 2023-07-28 161434" src="https://github.com/Blackheadbeast/booktracker/assets/96144118/4944eda6-3030-4231-b6f7-b8a62585371a">
+<img width="479" alt="image" src="https://github.com/Blackheadbeast/booktracker/assets/96144118/cab8f878-99b1-4765-95bf-ca2d923bc260">
+
+<img width="485" alt="image" src="https://github.com/Blackheadbeast/booktracker/assets/96144118/a1a80357-be67-433d-b245-56bd3f466936">
