@@ -28,3 +28,6 @@ Updating Book Status: To change the status of a book, simply navigate to the boo
 Tracking Reading Progress: While reading a book, access its details page and enter the current page or percentage you've completed in the progress tracker.
 
 Searching for Books: Use the search bar to look for specific books by title, author, or genre. Click on the search results to view book details or add them to your library.
+
+
+<img width="356" alt="Screenshot 2023-07-28 161434" src="https://github.com/Blackheadbeast/booktracker/assets/96144118/4944eda6-3030-4231-b6f7-b8a62585371a">
